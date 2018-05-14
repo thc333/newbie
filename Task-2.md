@@ -38,8 +38,7 @@
 5. 启动Mariadb数据库　并设置为开机自启动，并设置密码
 
 6. github上使用公钥,[教程](https://blog.csdn.net/fenghuibian/article/details/73350890) ,并写个脚本将自己写的脚本和一些需要交的作业上传到自己的Dev_ops仓库中
-
-   **(PS:以上的每一步都要有截图)**
+**(PS:以上的每一步都要有截图)**
 
 ---
 
