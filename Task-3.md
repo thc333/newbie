@@ -40,7 +40,7 @@ js 一个 哪里都能运行的脚本语言。
 1. 用js加入到第一周的网页中，并将标题修改为“运维组---”+你的名字
 2. 用js将网页的背景改成黑色
 3. 使用python写一个解一元二次方程的小程序
-4. 用pip或者easy_install 安装 beautifulsoup4的第三方裤
+4. 用pip或者easy_install 安装 beautifulsoup4的第三方库
 
 ---
 
